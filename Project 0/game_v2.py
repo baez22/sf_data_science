@@ -36,5 +36,6 @@ def score_game(random_predict) -> int:
     print(f"Your programm finds the number in average for {score} tries")
     return(score)
 
-score_game(random_predict)
+if __name__ == "__main__":
+    score_game(random_predict)
 
