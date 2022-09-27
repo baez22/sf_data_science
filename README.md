@@ -2,6 +2,6 @@
 
 ## Projects:
 
-* [Project 0. Game: guess the number](https://github.com/baez22/sf_data_science/tree/main/Project%200)
+* [Project 0. Game: guess the number](https://github.com/baez22/sf_data_science/tree/main/Project_0)
 
 
